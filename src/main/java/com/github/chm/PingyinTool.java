@@ -1,4 +1,4 @@
-package com.hikvision.kapu.tools;
+package com.github.chm;
 
 import net.sourceforge.pinyin4j.PinyinHelper;
 import net.sourceforge.pinyin4j.format.HanyuPinyinCaseType;
