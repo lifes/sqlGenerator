@@ -28,4 +28,7 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile 'junit:junit:4.12'
     compile 'com.belerweb:pinyin4j:2.5.0'
+    compile group: 'org.apache.poi', name: 'poi', version: '3.14'
+    compile group: 'org.apache.poi', name: 'poi-ooxml', version: '3.14'
+    //compile group: 'org.apache.poi', name: 'poi', version: '3.9'
 }
